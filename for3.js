@@ -1,9 +1,8 @@
-let bcs4 = "can take my eyes of u";
+let a = "woWowoWowoo";
+let searcho = "o";
 
-let search0 = "o";
-
-for (let i = 0; i < bcs4.length; i++) {
-  if (bcs4[i] === search0) {
-    console.log(`${i + 1}번째 글자에 ${search0}가 있습니다.`);
+for (i = 0; i < a.length; i++) {
+  if (a[i] === searcho) {
+    console.log(`${i + 1}번째에 ${searcho}가 있습니다.`);
   }
 }
